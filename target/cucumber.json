@@ -1,0 +1,186 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 125552000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "in the provided url page",
+            "match": {
+              "location": "ExamStepDefination.in_the_provided_url_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3418381200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ExamStepDefination.methodName()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Sky Blue Backgroung",
+        "description": "",
+        "id": "background-color-changing;sky-blue-backgroung",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "set skyblue backgroung button exists",
+            "match": {
+              "location": "ExamStepDefination.set_skyblue_backgroung_button_exists()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3074369900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on the button",
+            "match": {
+              "location": "ExamStepDefination.i_click_on_the_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 28400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the background color will change to sky blue",
+            "match": {
+              "location": "ExamStepDefination.the_background_color_will_change_to_sky_blue()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@Scenario1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 22600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "in the provided url page",
+            "match": {
+              "location": "ExamStepDefination.in_the_provided_url_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2082267900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ExamStepDefination.methodName()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "White Background Change",
+        "description": "",
+        "id": "background-color-changing;white-background-change",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3089899000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "set skywhite background button exists",
+            "match": {
+              "location": "ExamStepDefination.set_skywhite_background_button_exists()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 66088400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I  click on the button",
+            "match": {
+              "location": "ExamStepDefination.i_click_on_the_button1()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 37600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "the background color will change to white",
+            "match": {
+              "location": "ExamStepDefination.the_background_color_will_change_to_white()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@Scenario2"
+          }
+        ]
+      }
+    ],
+    "name": "Background color changing",
+    "description": "",
+    "id": "background-color-changing",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/Exam.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Feature1"
+      }
+    ]
+  }
+]
